@@ -2,7 +2,7 @@ Hi, I'm Prashant
 
 I am a BCA student currently on a learning path in Frontend Development and Quality Assurance (QA). I am building my foundation in web technologies while gradually developing practical skills in testing and software quality.
 
-Technical Focus
+### Technical Focus
 
 ## Frontend Development (Learning)
 
